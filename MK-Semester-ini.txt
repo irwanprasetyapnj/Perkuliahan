@@ -3,3 +3,8 @@ Semester Genap Tahun Ajaran 2023/2024
   Hari Senin & Rabu
 - MK. Pemrograman WEB dan Basis Data
   Hari Kamis & Jumat
+
+Jumlah SKS setiap MK 2 untuk setiap kelas
+Jumlah kelas 4
+Total SKS/MK 8
+Total Semua SKS 16
