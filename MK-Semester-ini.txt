@@ -8,3 +8,6 @@ Jumlah SKS setiap MK 2 untuk setiap kelas
 Jumlah kelas 4
 Total SKS/MK 8
 Total Semua SKS 16
+
+Jam Perkuliahan 1 sks 2 jam
+Sehingga 16 sks x 2 Jam = 32 jam
